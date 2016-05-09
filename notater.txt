@@ -5,5 +5,5 @@ sudo apt-get install open-vm-tools-desktop vim atom zsh git chromium gnupgv2
 Installer oh-my-zsh
 Installer intelliJ, la intellij opprette desktop-links.
 Fjern keyboard-shortcuts.
-
-
+Fjern blinking og velg unlimited scrollsize i terminal-options.
+Fortsatt problem med https-sider i nettleser.
