@@ -1,0 +1,9 @@
+Image: Ubuntu Xenial MATE 16.04
+
+sudo apt-get install open-vm-tools-desktop vim atom zsh git chromium gnupgv2
+
+Installer oh-my-zsh
+Installer intelliJ, la intellij opprette desktop-links.
+Fjern keyboard-shortcuts.
+
+
