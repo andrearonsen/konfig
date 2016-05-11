@@ -100,4 +100,15 @@ sett-versjon() {
 	mvn versions:set -DnewVersion=$1 -DgenerateBackupPoms=false		
 }
 
-# TEST3
+add-author() {
+  if [[ $# -eq 0 ]] ; then
+    echo 'Usage: addauth <brukernavn>'
+    exit 0
+  fi
+
+  authorsfile="/home/andre/dev/authors.txt"
+  echo "Legger til $1 i $authorsfile"
+  echo "$1 = $1, $1 <$1@skatteetaten.no>" >> $authorsfile
+  echo "OK."
+  exec /home/andre/bin/oppdater-git-authors
+}
