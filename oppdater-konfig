@@ -1,3 +1,5 @@
-#!/bin/zsh
+echo `date` >> /home/andre/logs/incron
 
 cp ~/.gitconfig ~/github/konfig/gitconfig && cp ~/.zshrc ~/github/konfig/zshrc && cd ~/github/konfig && git add . && git commit -m "Oppdatert konfig." && git push origin master
+
+

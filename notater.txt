@@ -1,9 +1,16 @@
 Image: Ubuntu Xenial MATE 16.04
 
-sudo apt-get install open-vm-tools-desktop vim atom zsh git chromium gnupgv2
+sudo apt-get install open-vm-tools-desktop vim atom zsh git chromium gnupgv2 alien inotify-tools incron
 
 Installer oh-my-zsh
 Installer intelliJ, la intellij opprette desktop-links.
 Fjern keyboard-shortcuts.
 Fjern blinking og velg unlimited scrollsize i terminal-options.
-Fortsatt problem med https-sider i nettleser.
+
+Installer oracle db: https://help.ubuntu.com/community/Oracle%20Instant%20Client
+Installer sertifikater: https://aurora/git/projects/AUT/repos/aurora-deb-pakker/browse/deb/aurora-ske-certificates
+
+http://download.oracle.com/otn/java/sqldeveloper/sqldeveloper-4.1.3.20.78-1.noarch.rpm
+sudo alien -d sqldeveloper-4.1.3.20.78-1.noarch.rpm
+
+test9

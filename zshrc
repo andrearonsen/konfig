@@ -15,6 +15,7 @@ DISABLE_UPDATE_PROMPT=true
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export SVN_EDITOR=vim
+export EDITOR=vim
 
 alias mci="mvn clean install "
 alias muci="mvn -U clean install"
@@ -98,3 +99,5 @@ release-bugfix() {
 sett-versjon() {
 	mvn versions:set -DnewVersion=$1 -DgenerateBackupPoms=false		
 }
+
+# TEST3
