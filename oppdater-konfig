@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+cp ~/.gitconfig ~/github/konfig/gitconfig && cp ~/.zshrc ~/github/konfig/zshrc && cd ~/github/konfig && git add . && git commit -m "Oppdatert konfig." && git push origin master
