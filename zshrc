@@ -110,7 +110,7 @@ add-author() {
   authorsfile="/home/andre/dev/authors.txt"
   echo "Legger til $1 i $authorsfile"
   echo "$1 = $1, $1 <$1@skatteetaten.no>" >> $authorsfile
-  exec /home/andre/bin/oppdater-git-authors
+  eval "/home/andre/bin/oppdater-git-authors"
   echo "OK."
   unsetopt verbose
 }
