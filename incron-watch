@@ -1,3 +1,4 @@
-/home/andre/.zshrc IN_MODIFY /home/andre/github/oppdater-konfig 
-/home/andre/.gitconfig IN_MODIFY /home/andre/github/oppdater-konfig 
-/home/andre/github IN_MODIFY /home/andre/github/oppdater-konfig 
+/home/andre/.zshrc IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig 
+/home/andre/.gitconfig IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig 
+/home/andre/github/konfig/notater.txt IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig 
+/home/andre/dev/authors.txt IN_CLOSE_WRITE touch /home/andre/logs/yo2.txt
