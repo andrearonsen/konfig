@@ -101,14 +101,16 @@ sett-versjon() {
 }
 
 add-author() {
+  setopt verbose
   if [[ $# -eq 0 ]] ; then
     echo 'Usage: addauth <brukernavn>'
-    exit 0
+    return 1
   fi
 
   authorsfile="/home/andre/dev/authors.txt"
   echo "Legger til $1 i $authorsfile"
   echo "$1 = $1, $1 <$1@skatteetaten.no>" >> $authorsfile
-  echo "OK."
   exec /home/andre/bin/oppdater-git-authors
+  echo "OK."
+  unsetopt verbose
 }
