@@ -1,0 +1,6 @@
+#!/bin/sh
+
+ENC_FILE="/home/andre/dev/authors.txt.enc.`date -Ins`"
+AT_FILE="/home/andre/dev/authors.txt.`date -Ins`"
+base64 -d /home/andre/github/konfig/authors.txt.enc.base64 > $ENC_FILE
+echo "<PASSORD>" | gpg --decrypt --passphrase-fd 0 --output $AT_FILE $ENC_FILE

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+ENC_FILE="/home/andre/dev/authors.txt.enc.`date -Ins`"
+BASE64_FILE="$ENC_FILE.base64"
+echo "Skriver $BASE64_FILE"
+
+echo "<PASSORD>" | gpg --symmetric --cipher-algo AES256 --passphrase-fd 0 --output $ENC_FILE /home/andre/dev/authors.txt && base64 $ENC_FILE > $BASE64_FILE && mv $BASE64_FILE /home/andre/github/konfig/authors.txt.enc.base64 && rm $ENC_FILE
