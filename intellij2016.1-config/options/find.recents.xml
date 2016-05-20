@@ -1,0 +1,11 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>oracle</find>
+      <find>skalIkkeTaMedAvvisteLeveranserIPaafoelgendeRapporteringsperiode</find>
+      <find>SYNC_BESTILLING_INNTEKTSMOTTAKER</find>
+      <find>erRekjoerin</find>
+      <find>loennsinntektBeskrivelse</find>
+    </findStrings>
+  </component>
+</application>

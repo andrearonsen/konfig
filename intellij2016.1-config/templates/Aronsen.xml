@@ -1,0 +1,32 @@
+<templateSet group="Aronsen">
+  <template name="it" value="@org.junit.experimental.categories.Category(Integrasjonstest.class)" description="Integrasjonstest-annotasjon" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
+  <template name="tt" value="@org.junit.Test&#10;public void $PARAM1$() throws Exception {&#10;    $END$&#10;}" description="Ny JUnit-testmetode" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="imlist" value=".collect(ske.fastsetting.innsamling.edag.utils.ImmutableCollectors.toImmutableList());" description="Collect to immutable list" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final Logger log = LoggerFactory.getLogger($KLASSE$.class);" description="SLF4J-logger" toReformat="true" toShortenFQNames="true">
+    <variable name="KLASSE" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

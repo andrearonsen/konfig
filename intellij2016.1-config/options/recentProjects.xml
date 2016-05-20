@@ -1,0 +1,110 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/src/edagkodeliste-maven-plugin" />
+        <option value="$USER_HOME$/src/a-ordning-kodelister" />
+        <option value="$USER_HOME$/src/magnet-edag" />
+        <option value="$USER_HOME$/src/adhoc-scripts" />
+        <option value="$USER_HOME$/src/abonnement-nav-inntekt" />
+        <option value="$USER_HOME$/src/meldingsproduksjon-nav-inntekt" />
+        <option value="$USER_HOME$/src/magnet-felles" />
+        <option value="/tmp/build.gradle" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/src/edagkodeliste-maven-plugin" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/src/a-ordning-kodelister">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463569498025" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/abonnement-nav-inntekt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462961443977" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/adhoc-scripts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463038356631" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/edagkodeliste-maven-plugin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463569584804" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/magnet-edag">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463567207122" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/magnet-felles">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462878154928" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/meldingsproduksjon-nav-inntekt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462956278474" />
+              <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/build.gradle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.597" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462538479161" />
+              <option name="buildTimestamp" value="1459234800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/src" />
+  </component>
+</application>
