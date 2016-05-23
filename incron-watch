@@ -1,4 +1,5 @@
 /home/andre/.zshrc IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig 
 /home/andre/.gitconfig IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig 
 /home/andre/github/konfig/notater.txt IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig 
-/home/andre/dev/authors.txt IN_CLOSE_WRITE touch /home/andre/logs/yo2.txt
+/home/andre/github/konfig/authors.txt.enc.base64 IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig
+/home/andre/.IntelliJIdea2016.1/config IN_CLOSE_WRITE /home/andre/github/konfig/oppdater-konfig

@@ -1,5 +1,5 @@
 echo `date` >> /home/andre/logs/incron
 
-cp ~/.gitconfig ~/github/konfig/gitconfig && cp ~/.zshrc ~/github/konfig/zshrc && cp -R /home/andre/.IntelliJIdea2016.1/config ~/github/konfig/intellij2016.1-config && cd ~/github/konfig && git add . && git commit -m "Oppdatert konfig." && git push origin master
+cp ~/.gitconfig ~/github/konfig/gitconfig && cp ~/.zshrc ~/github/konfig/zshrc && cp -R /home/andre/.IntelliJIdea2016.1/config/* ~/github/konfig/intellij2016.1-config && incrontab --list > /home/andre/github/konfig/incron-watch && cd ~/github/konfig && git add . && git commit -m "Oppdatert konfig." && git push origin master
 
 

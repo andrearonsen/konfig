@@ -14,7 +14,6 @@ DISABLE_UPDATE_PROMPT=true
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export SVN_EDITOR=vim
 export EDITOR=vim
 
 alias mci="mvn clean install "

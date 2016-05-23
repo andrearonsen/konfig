@@ -18,7 +18,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="imlist" value=".collect(ske.fastsetting.innsamling.edag.utils.ImmutableCollectors.toImmutableList());" description="Collect to immutable list" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="imlist" value=".collect(ske.fastsetting.innsamling.edag.utils.ImmutableCollectors.toImmutableList())" description="Collect to immutable list" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
@@ -27,6 +27,11 @@
     <variable name="KLASSE" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="imset" value=".collect(ske.fastsetting.innsamling.edag.utils.ImmutableCollectors.toImmutableSet())" description="Collect to immutable set" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>
