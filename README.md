@@ -1,4 +1,4 @@
-Konfig
+*Konfig*
 
 Kryptering av authors.txt
 gpg --symmetric --cipheralgo AES256 --output authors.txt.enc authors.txt
