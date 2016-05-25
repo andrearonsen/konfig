@@ -4,6 +4,9 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.dyuproject" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.lowagie.text.html" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.ss.formula.functions" />
+    <EXCLUDED_PACKAGE NAME="org.aspectj" />
     <EXCLUDED_PACKAGE NAME="org.bouncycastle.asn1" />
   </component>
 </application>

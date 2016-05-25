@@ -2,8 +2,8 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/src/edagkodeliste-maven-plugin" />
         <option value="$USER_HOME$/src/a-ordning-kodelister" />
+        <option value="$USER_HOME$/src/edagkodeliste-maven-plugin" />
         <option value="$USER_HOME$/src/magnet-edag" />
         <option value="$USER_HOME$/src/adhoc-scripts" />
         <option value="$USER_HOME$/src/abonnement-nav-inntekt" />
@@ -12,7 +12,12 @@
         <option value="/tmp/build.gradle" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/src/edagkodeliste-maven-plugin" />
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/src/a-ordning-kodelister" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/src/a-ordning-kodelister" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/src/a-ordning-kodelister">
@@ -21,7 +26,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1463569498025" />
+              <option name="projectOpenTimestamp" value="1464159670339" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -54,7 +59,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1463569584804" />
+              <option name="projectOpenTimestamp" value="1464159666269" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
