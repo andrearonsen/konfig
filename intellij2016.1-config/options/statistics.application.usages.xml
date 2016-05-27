@@ -2,102 +2,102 @@
   <component name="StatisticsApplicationUsages">
     <group name="JavaScript versions">
       <project id="a-ordning-kodelister" values="ECMAScript 5.1" collectionTime="1464163959910" />
-      <project id="a-ordning-produksjonsoppfoelging" values="ECMAScript 5.1" collectionTime="1464261931271" />
+      <project id="edagkodeliste-maven-plugin" values="ECMAScript 5.1" collectionTime="1464159670339" />
       <project id="build.gradle" values="ECMAScript 5.1" collectionTime="1462538494998" />
       <project id="abonnement-nav-inntekt-parent" values="ECMAScript 5.1" collectionTime="1462961445445" />
       <project id="meldingsproduksjon-nav-inntekt-parent" values="ECMAScript 5.1" collectionTime="1462961443976" />
-      <project id="ekstern-utsending-parent" values="ECMAScript 5.1" collectionTime="1464267666452" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="ECMAScript 5.1" collectionTime="1464348282469" />
       <project id="adhoc-scripts" values="ECMAScript 5.1" collectionTime="1464246658185" />
       <project id="magnet-felles" values="ECMAScript 5.1" collectionTime="1462878190253" />
       <project id="magnet-edag" values="ECMAScript 5.1" collectionTime="1464347757058" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="ECMAScript 5.1" collectionTime="1464347788405" />
-      <project id="edagkodeliste-maven-plugin" values="ECMAScript 5.1" collectionTime="1464159670339" />
+      <project id="ekstern-utsending-parent" values="ECMAScript 5.1" collectionTime="1464267666452" />
+      <project id="a-ordning-produksjonsoppfoelging" values="ECMAScript 5.1" collectionTime="1464261931271" />
     </group>
     <group name="vcs">
       <project id="a-ordning-kodelister" values="Git" collectionTime="1464163959591" />
-      <project id="a-ordning-produksjonsoppfoelging" values="Git" collectionTime="1464261931088" />
+      <project id="edagkodeliste-maven-plugin" values="Git" collectionTime="1464159670277" />
       <project id="abonnement-nav-inntekt-parent" values="Git" collectionTime="1462961445297" />
       <project id="meldingsproduksjon-nav-inntekt-parent" values="Git" collectionTime="1462961443833" />
-      <project id="ekstern-utsending-parent" values="Git" collectionTime="1464267666292" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="Git" collectionTime="1464348281855" />
       <project id="adhoc-scripts" values="Git" collectionTime="1464246657935" />
       <project id="magnet-felles" values="Git" collectionTime="1462878189609" />
       <project id="magnet-edag" values="Git" collectionTime="1464347756938" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="Git" collectionTime="1464347788273" />
-      <project id="edagkodeliste-maven-plugin" values="Git" collectionTime="1464159670277" />
+      <project id="ekstern-utsending-parent" values="Git" collectionTime="1464267666292" />
+      <project id="a-ordning-produksjonsoppfoelging" values="Git" collectionTime="1464261931088" />
     </group>
     <group name="Scala">
-      <project id="abonnement-nav-inntekt-parent" values="Library  Akka for Java" collectionTime="1462961445446" />
-      <project id="meldingsproduksjon-nav-inntekt-parent" values="Library  Akka for Java" collectionTime="1462961443977" />
       <project id="ekstern-utsending-parent" values="Library  Akka for Java" collectionTime="1464267666452" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="Library  Akka for Java" collectionTime="1464347788406" />
       <project id="a-ordning-produksjonsoppfoelging" values="Library  Akka for Java" collectionTime="1464261931271" />
+      <project id="meldingsproduksjon-nav-inntekt-parent" values="Library  Akka for Java" collectionTime="1462961443977" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="Library  Akka for Java" collectionTime="1464348282474" />
+      <project id="abonnement-nav-inntekt-parent" values="Library  Akka for Java" collectionTime="1462961445446" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="JUnit" collectionTime="1464347788274" />
       <project id="magnet-edag" values="JUnit" collectionTime="1464347756938" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="JUnit" collectionTime="1464348281856" />
     </group>
     <group name="file-type">
-      <project id="a-ordning-kodelister" values="ARCHIVE,JAVA,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1464163959817" />
-      <project id="a-ordning-produksjonsoppfoelging" values="HOCON,YAML,JAVA,Properties,SQL,PLAIN_TEXT,IDEA_MODULE,XML" collectionTime="1464261931268" />
+      <project id="a-ordning-kodelister" values="JAVA,XML,IDEA_MODULE,ARCHIVE,PLAIN_TEXT" collectionTime="1464163959817" />
+      <project id="edagkodeliste-maven-plugin" values="IDEA_MODULE,XML,ARCHIVE,JAVA,Properties,PLAIN_TEXT" collectionTime="1464159670337" />
       <project id="build.gradle" values="Groovy" collectionTime="1462538494988" />
-      <project id="abonnement-nav-inntekt-parent" values="XML,PLAIN_TEXT,Properties,IDEA_MODULE,YAML,JAVA,SQL" collectionTime="1462961445435" />
-      <project id="meldingsproduksjon-nav-inntekt-parent" values="PLAIN_TEXT,IDEA_MODULE,XML,JAVA,Properties,DTD,YAML,UNKNOWN" collectionTime="1462961443962" />
-      <project id="ekstern-utsending-parent" values="UNKNOWN,JAVA,Native,YAML,XML,JSON,Properties,ARCHIVE,SPI,PLAIN_TEXT,SQL,IDEA_MODULE,HOCON" collectionTime="1464267666445" />
-      <project id="adhoc-scripts" values="YAML,Properties,Groovy,ARCHIVE,Native,PLAIN_TEXT" collectionTime="1464246658141" />
-      <project id="magnet-felles" values="XML,SQL,Properties,Images,JAVA,Native,UNKNOWN,IDEA_MODULE,JSON,YAML,PLAIN_TEXT" collectionTime="1462878190144" />
-      <project id="magnet-edag" values="XML,UNKNOWN,JAVA,IDEA_MODULE,YAML,CSS,Cucumber,Images,ARCHIVE,PLAIN_TEXT,HTML,Properties,Native,JSON,JavaScript" collectionTime="1464347757053" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="YAML,Images,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,JAVA,Properties,XML" collectionTime="1464347788402" />
-      <project id="edagkodeliste-maven-plugin" values="PLAIN_TEXT,XML,ARCHIVE,IDEA_MODULE,Properties,JAVA" collectionTime="1464159670337" />
+      <project id="abonnement-nav-inntekt-parent" values="Properties,SQL,PLAIN_TEXT,IDEA_MODULE,YAML,JAVA,XML" collectionTime="1462961445435" />
+      <project id="meldingsproduksjon-nav-inntekt-parent" values="JAVA,Properties,XML,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,DTD,YAML" collectionTime="1462961443962" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="Properties,XML,PLAIN_TEXT,Images,YAML,JAVA,IDEA_MODULE,UNKNOWN" collectionTime="1464348282348" />
+      <project id="adhoc-scripts" values="Properties,YAML,PLAIN_TEXT,ARCHIVE,Native,Groovy" collectionTime="1464246658141" />
+      <project id="magnet-felles" values="Properties,SQL,YAML,Native,PLAIN_TEXT,UNKNOWN,JSON,XML,JAVA,Images,IDEA_MODULE" collectionTime="1462878190144" />
+      <project id="magnet-edag" values="CSS,JavaScript,YAML,Native,XML,IDEA_MODULE,Images,Properties,JAVA,JSON,Cucumber,ARCHIVE,HTML,PLAIN_TEXT,UNKNOWN" collectionTime="1464347757053" />
+      <project id="ekstern-utsending-parent" values="JAVA,Native,HOCON,PLAIN_TEXT,YAML,ARCHIVE,SPI,XML,UNKNOWN,IDEA_MODULE,JSON,Properties,SQL" collectionTime="1464267666445" />
+      <project id="a-ordning-produksjonsoppfoelging" values="HOCON,SQL,JAVA,PLAIN_TEXT,YAML,XML,Properties,IDEA_MODULE" collectionTime="1464261931268" />
     </group>
     <group name="module type">
       <project id="a-ordning-kodelister" values="JAVA_MODULE" collectionTime="1464163959592" />
-      <project id="a-ordning-produksjonsoppfoelging" values="JAVA_MODULE" collectionTime="1464261931089" />
+      <project id="edagkodeliste-maven-plugin" values="JAVA_MODULE" collectionTime="1464159670277" />
       <project id="build.gradle" values="JAVA_MODULE" collectionTime="1462538494968" />
       <project id="abonnement-nav-inntekt-parent" values="JAVA_MODULE" collectionTime="1462961445297" />
       <project id="meldingsproduksjon-nav-inntekt-parent" values="JAVA_MODULE" collectionTime="1462961443833" />
-      <project id="ekstern-utsending-parent" values="JAVA_MODULE" collectionTime="1464267666292" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="JAVA_MODULE" collectionTime="1464348281855" />
       <project id="adhoc-scripts" values="JAVA_MODULE" collectionTime="1464246657935" />
       <project id="magnet-felles" values="JAVA_MODULE" collectionTime="1462878189610" />
       <project id="magnet-edag" values="JAVA_MODULE" collectionTime="1464347756938" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="JAVA_MODULE" collectionTime="1464347788273" />
-      <project id="edagkodeliste-maven-plugin" values="JAVA_MODULE" collectionTime="1464159670277" />
+      <project id="ekstern-utsending-parent" values="JAVA_MODULE" collectionTime="1464267666292" />
+      <project id="a-ordning-produksjonsoppfoelging" values="JAVA_MODULE" collectionTime="1464261931089" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="a-ordning-kodelister" values="Project,Project" collectionTime="1464163959910" />
-      <project id="a-ordning-produksjonsoppfoelging" values="Project,Project" collectionTime="1464261931271" />
+      <project id="edagkodeliste-maven-plugin" values="Project,Project" collectionTime="1464159670339" />
       <project id="build.gradle" values="Project,Project" collectionTime="1462538494998" />
       <project id="abonnement-nav-inntekt-parent" values="Project,Project" collectionTime="1462961445445" />
       <project id="meldingsproduksjon-nav-inntekt-parent" values="Project,Project" collectionTime="1462961443976" />
-      <project id="ekstern-utsending-parent" values="Project,Project" collectionTime="1464267666452" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="Project,Project" collectionTime="1464348282469" />
       <project id="adhoc-scripts" values="Project,Project" collectionTime="1464246658185" />
       <project id="magnet-felles" values="Project,Project" collectionTime="1462878190253" />
       <project id="magnet-edag" values="Project,Project" collectionTime="1464347757058" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="Project,Project" collectionTime="1464347788405" />
-      <project id="edagkodeliste-maven-plugin" values="Project,Project" collectionTime="1464159670339" />
+      <project id="ekstern-utsending-parent" values="Project,Project" collectionTime="1464267666452" />
+      <project id="a-ordning-produksjonsoppfoelging" values="Project,Project" collectionTime="1464261931271" />
     </group>
     <group name="Git">
-      <project id="a-ordning-kodelister" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+" collectionTime="1464163959858" />
-      <project id="a-ordning-produksjonsoppfoelging" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.local.branches.count.1,config.push.update.all.roots.enabled,data.remote.branches.count.1" collectionTime="1464261931271" />
-      <project id="build.gradle" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1462538494995" />
-      <project id="abonnement-nav-inntekt-parent" values="data.remote.branches.count.2+,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1" collectionTime="1462961445444" />
-      <project id="meldingsproduksjon-nav-inntekt-parent" values="data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,data.remote.branches.count.15+,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1462961443976" />
-      <project id="ekstern-utsending-parent" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.15+,data.local.branches.count.1,config.warn.about.crlf.enabled" collectionTime="1464267666452" />
-      <project id="adhoc-scripts" values="config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remotes.in.project.1,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,data.remote.branches.count.2+,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1464246658185" />
-      <project id="magnet-felles" values="config.force.push.enabled,data.remote.branches.count.8+,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1462878190213" />
-      <project id="magnet-edag" values="data.local.branches.count.2+,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.detached.enabled,config.force.push.enabled,data.remote.branches.count.5+,config.push.update.all.roots.enabled" collectionTime="1464347757058" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="config.warn.about.detached.enabled,config.ssh.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remote.branches.count.5+" collectionTime="1464347788405" />
-      <project id="edagkodeliste-maven-plugin" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,data.local.branches.count.1,config.push.autoupdate.disabled,data.remotes.in.project.1,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1464159670338" />
+      <project id="a-ordning-kodelister" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,data.local.branches.count.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1464163959858" />
+      <project id="edagkodeliste-maven-plugin" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.force.push.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1" collectionTime="1464159670338" />
+      <project id="build.gradle" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1462538494995" />
+      <project id="abonnement-nav-inntekt-parent" values="config.ssh.enabled,data.local.branches.count.1,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remote.branches.count.2+" collectionTime="1462961445444" />
+      <project id="meldingsproduksjon-nav-inntekt-parent" values="config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,data.remote.branches.count.15+,config.force.push.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled" collectionTime="1462961443976" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.5+,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.local.branches.count.2+" collectionTime="1464348282432" />
+      <project id="adhoc-scripts" values="config.force.push.enabled,config.push.autoupdate.disabled,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.warn.about.detached.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1464246658185" />
+      <project id="magnet-felles" values="config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1462878190213" />
+      <project id="magnet-edag" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remote.branches.count.5+,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.2+,config.save.policy.STASH" collectionTime="1464347757058" />
+      <project id="ekstern-utsending-parent" values="data.remotes.in.project.1,data.remote.branches.count.15+,data.local.branches.count.1,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1464267666452" />
+      <project id="a-ordning-produksjonsoppfoelging" values="data.remotes.in.project.1,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.push.autoupdate.disabled,data.local.branches.count.1,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1464261931271" />
     </group>
     <group name="libraries">
-      <project id="magnet-felles" values="BeanValidation,CDI,groovy,JAX-WS,JAX-RS" collectionTime="1462878190197" />
-      <project id="a-ordning-produksjonsoppfoelging" values="CDI,JAX-RS" collectionTime="1464261931269" />
-      <project id="abonnement-nav-inntekt-parent" values="CDI,JAX-RS" collectionTime="1462961445443" />
-      <project id="meldingsproduksjon-nav-inntekt-parent" values="JAX-RS,CDI" collectionTime="1462961443975" />
-      <project id="adhoc-scripts" values="CDI,JAX-RS,groovy" collectionTime="1464246658181" />
-      <project id="ekstern-utsending-parent" values="JMS,JAX-RS,CDI,groovy" collectionTime="1464267666449" />
-      <project id="magnet-edag" values="BeanValidation,JAX-WS,groovy,JAX-RS,CDI" collectionTime="1464347757055" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="groovy,CDI,JAX-RS" collectionTime="1464347788404" />
+      <project id="magnet-felles" values="JAX-WS,groovy,JAX-RS,BeanValidation,CDI" collectionTime="1462878190197" />
       <project id="edagkodeliste-maven-plugin" values="CDI" collectionTime="1464159670337" />
+      <project id="abonnement-nav-inntekt-parent" values="JAX-RS,CDI" collectionTime="1462961445443" />
+      <project id="meldingsproduksjon-nav-inntekt-parent" values="CDI,JAX-RS" collectionTime="1462961443975" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="JAX-RS,groovy,CDI" collectionTime="1464348282406" />
+      <project id="adhoc-scripts" values="JAX-RS,groovy,CDI" collectionTime="1464246658181" />
+      <project id="magnet-edag" values="CDI,groovy,JAX-WS,JAX-RS,BeanValidation" collectionTime="1464347757055" />
+      <project id="ekstern-utsending-parent" values="JMS,CDI,groovy,JAX-RS" collectionTime="1464267666449" />
+      <project id="a-ordning-produksjonsoppfoelging" values="JAX-RS,CDI" collectionTime="1464261931269" />
     </group>
     <group name="Libraries by jars">
       <project id="magnet-edag" values="freemarker_2.3" collectionTime="1464347757057" />
@@ -105,23 +105,23 @@
     </group>
     <group name="language-level">
       <project id="a-ordning-kodelister" values="JDK_1_8" collectionTime="1464163959852" />
-      <project id="a-ordning-produksjonsoppfoelging" values="JDK_1_8" collectionTime="1464261931271" />
+      <project id="edagkodeliste-maven-plugin" values="JDK_1_8" collectionTime="1464159670338" />
       <project id="build.gradle" values="JDK_1_3" collectionTime="1462538494994" />
       <project id="abonnement-nav-inntekt-parent" values="JDK_1_7,JDK_1_8" collectionTime="1462961445444" />
       <project id="meldingsproduksjon-nav-inntekt-parent" values="JDK_1_8" collectionTime="1462961443976" />
-      <project id="ekstern-utsending-parent" values="JDK_1_8,JDK_1_7" collectionTime="1464267666451" />
+      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="JDK_1_8" collectionTime="1464348282428" />
       <project id="adhoc-scripts" values="JDK_1_8" collectionTime="1464246658185" />
-      <project id="magnet-felles" values="JDK_1_8,JDK_1_7" collectionTime="1462878190207" />
+      <project id="magnet-felles" values="JDK_1_7,JDK_1_8" collectionTime="1462878190207" />
       <project id="magnet-edag" values="JDK_1_8" collectionTime="1464347757058" />
-      <project id="meldingsproduksjon-a-ordning-tilbakemelding" values="JDK_1_8" collectionTime="1464347788405" />
-      <project id="edagkodeliste-maven-plugin" values="JDK_1_8" collectionTime="1464159670338" />
+      <project id="ekstern-utsending-parent" values="JDK_1_7,JDK_1_8" collectionTime="1464267666451" />
+      <project id="a-ordning-produksjonsoppfoelging" values="JDK_1_8" collectionTime="1464261931271" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="execute.Application.Run" count="10" />
       <entry feature="execute.JUnit.Debug" count="53" />
-      <entry feature="execute.JUnit.Run" count="128" />
+      <entry feature="execute.JUnit.Run" count="132" />
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Auto_Import" count="7" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
@@ -132,8 +132,8 @@
       <entry feature="ide.settings.Live_Templates" count="15" />
       <entry feature="ide.settings.Project_Structure" count="2" />
       <entry feature="ide.settings.Updates" count="1" />
-      <entry feature="ideaapp.started" count="30" />
-      <entry feature="scala.file.script.parsed" count="10147" />
+      <entry feature="ideaapp.started" count="31" />
+      <entry feature="scala.file.script.parsed" count="10152" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
       <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />

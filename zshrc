@@ -17,6 +17,7 @@ DISABLE_UPDATE_PROMPT=true
 export EDITOR=vim
 
 alias mci="mvn clean install "
+alias mcl="mvn clean install -PskipLangsomTest"
 alias muci="mvn -U clean install"
 alias mcit="mvn clean install -DskipTests"
 alias mucit="mvn -U clean install -DskipTests"
