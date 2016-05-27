@@ -33,14 +33,14 @@
     <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1200" width="1912" height="1151" />
     <size key="DiffContextDialog.0.0.1920.1200" width="1538" height="950" />
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1200" width="621" height="587" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1878" height="389" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1878" height="389" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1878" height="389" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1878" height="389" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1200" width="1878" height="389" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1200" width="1878" height="389" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1200" width="1878" height="389" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1200" width="1878" height="389" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1876" height="391" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1876" height="391" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1876" height="391" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1876" height="391" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1200" width="1876" height="391" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1200" width="1876" height="391" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1200" width="1876" height="391" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1200" width="1876" height="391" />
     <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1200" width="526" height="492" />
     <size key="findTextDialog.0.0.1920.1200" width="477" height="559" />
     <size key="RollbackChangesDialog.0.0.1920.1200" width="428" height="572" />
@@ -54,6 +54,6 @@
     <size key="GridCell.Tab.0.bottom.0.0.1916.1094" width="1872" height="287" />
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1916.1094" width="602" height="602" />
     <size key="extract.method.dialog.0.0.1916.1094" width="526" height="422" />
-    <size key="extract.method.dialog.0.0.1920.1200" width="526" height="452" />
+    <size key="extract.method.dialog.0.0.1920.1200" width="534" height="452" />
   </component>
 </application>

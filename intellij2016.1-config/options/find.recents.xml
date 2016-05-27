@@ -6,6 +6,7 @@
       <find>SYNC_BESTILLING_INNTEKTSMOTTAKER</find>
       <find>erRekjoerin</find>
       <find>loennsinntektBeskrivelse</find>
+      <find>etterbeta</find>
     </findStrings>
   </component>
 </application>

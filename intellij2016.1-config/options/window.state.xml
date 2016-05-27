@@ -1,13 +1,21 @@
 <application>
   <component name="WindowStateApplicationService">
+    <state x="100" y="124" width="1720" height="952" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" />
+    <state x="100" y="124" width="1720" height="952" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1200" />
+    <state x="100" y="124" width="1720" height="952" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1200@0.0.1920.1200" />
     <state x="100" y="124" width="1720" height="952" key="DiffContextDialog" />
     <state x="100" y="124" width="1720" height="952" key="DiffContextDialog/0.0.1920.1200" />
     <state x="100" y="124" width="1720" height="952" key="DiffContextDialog/0.0.1920.1200@0.0.1920.1200" />
     <state x="100" y="124" width="1716" height="846" key="VCS.FileHistoryDialog" />
     <state x="100" y="124" width="1716" height="846" key="VCS.FileHistoryDialog/0.0.1916.1094" />
     <state x="100" y="124" width="1716" height="846" key="VCS.FileHistoryDialog/0.0.1916.1094@0.0.1916.1094" />
+    <state x="100" y="124" width="1716" height="846" key="VCS.FileHistoryDialog/0.0.1920.1200" />
+    <state x="100" y="124" width="1716" height="846" key="VCS.FileHistoryDialog/0.0.1920.1200@0.0.1920.1200" />
     <state x="99" y="124" width="1722" height="953" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
     <state x="99" y="124" width="1722" height="953" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200" />
     <state x="99" y="124" width="1722" height="953" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1200@0.0.1920.1200" />
+    <state x="100" y="124" width="1720" height="952" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" />
+    <state x="100" y="124" width="1720" height="952" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1200" />
+    <state x="100" y="124" width="1720" height="952" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1200@0.0.1920.1200" />
   </component>
 </application>

@@ -2,10 +2,13 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding" />
+        <option value="$USER_HOME$/src/magnet-edag" />
+        <option value="$USER_HOME$/src/ekstern-utsending" />
+        <option value="$USER_HOME$/src/a-ordning-produksjonsoppfoelging" />
+        <option value="$USER_HOME$/src/adhoc-scripts" />
         <option value="$USER_HOME$/src/a-ordning-kodelister" />
         <option value="$USER_HOME$/src/edagkodeliste-maven-plugin" />
-        <option value="$USER_HOME$/src/magnet-edag" />
-        <option value="$USER_HOME$/src/adhoc-scripts" />
         <option value="$USER_HOME$/src/abonnement-nav-inntekt" />
         <option value="$USER_HOME$/src/meldingsproduksjon-nav-inntekt" />
         <option value="$USER_HOME$/src/magnet-felles" />
@@ -14,10 +17,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/src/a-ordning-kodelister" />
+        <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/src/a-ordning-kodelister" />
+    <option name="lastPath" value="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/src/a-ordning-kodelister">
@@ -26,7 +29,18 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464159670339" />
+              <option name="projectOpenTimestamp" value="1464163942057" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/a-ordning-produksjonsoppfoelging">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464261926315" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -45,11 +59,11 @@
         <entry key="$USER_HOME$/src/adhoc-scripts">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-145.597" />
+              <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1463038356631" />
-              <option name="buildTimestamp" value="1459202400000" />
+              <option name="projectOpenTimestamp" value="1464179918604" />
+              <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -64,13 +78,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/src/ekstern-utsending">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464266929351" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/src/magnet-edag">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1463567207122" />
+              <option name="projectOpenTimestamp" value="1464267666453" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -83,6 +108,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1462878154928" />
               <option name="buildTimestamp" value="1459202400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464347757059" />
+              <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -3,7 +3,7 @@
     <property name="evlsprt3.16" value="17" />
     <property name="installed.kotlin.plugin.version" value="1.0.1-release-IJ143-46" />
     <property name="installation.uid" value="4e74eda0-e71e-4fb3-bdad-286ad9cdfeb5" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/src/edagkodeliste-maven-plugin/pom.xml&#10;/home/andre/src/a-ordning-kodelister/pom.xml&#10;/home/andre/src/meldingsproduksjon-nav-inntekt/pom.xml&#10;/home/andre/src/magnet-felles/pom.xml&#10;/home/andre/dev/jdk1.8.0_92&#10;/home/andre/src/adhoc-scripts/build.gradle&#10;/home/andre/src/magnet-edag/pom.xml" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/src/a-ordning-produksjonsoppfoelging/pom.xml&#10;/home/andre/src/ekstern-utsending/pom.xml&#10;/home/andre/src/meldingsproduksjon-a-ordning-tilbakemelding/pom.xml&#10;/home/andre/src/edagkodeliste-maven-plugin/pom.xml&#10;/home/andre/src/a-ordning-kodelister/pom.xml&#10;/home/andre/src/meldingsproduksjon-nav-inntekt/pom.xml&#10;/home/andre/src/magnet-felles/pom.xml&#10;/home/andre/dev/jdk1.8.0_92&#10;/home/andre/src/adhoc-scripts/build.gradle&#10;/home/andre/src/magnet-edag/pom.xml" />
     <property name="default.storage.format" value=".ipr (file based)" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
@@ -27,5 +27,6 @@
     <property name="typescript.merge.auto.import" value="true" />
     <property name="typescript.use.config.auto.import" value="false" />
     <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="true" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
   </component>
 </application>
