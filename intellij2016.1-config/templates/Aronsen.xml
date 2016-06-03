@@ -34,4 +34,15 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="et" value="@org.junit.experimental.categories.Category(ske.mag.test.kategorier.Enhetstest.class)" description="Kategori Enhetstest" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
 </templateSet>

@@ -7,6 +7,21 @@
       <find>erRekjoerin</find>
       <find>loennsinntektBeskrivelse</find>
       <find>etterbeta</find>
+      <find>kodel</find>
+      <find>getAltinnTids</find>
+      <find>DateTime.now()</find>
+      <find>P_EDAG_OPPL</find>
+      <find>P_EDAG_INNT</find>
+      <find>P_AMELD_BERE</find>
+      <find>maven.compiler.source</find>
+      <find>compiler</find>
+      <find>HeapDumpOnOutOfMemoryError</find>
     </findStrings>
+    <replaceStrings>
+      <replace>innsendtTidspunkt</replace>
+      <replace>P_OPL</replace>
+      <replace>P_IM</replace>
+      <replace>P_BERE</replace>
+    </replaceStrings>
   </component>
 </application>

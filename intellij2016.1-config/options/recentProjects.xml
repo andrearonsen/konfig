@@ -2,25 +2,27 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/src/magnet-edag" />
-        <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding" />
-        <option value="$USER_HOME$/src/ekstern-utsending" />
-        <option value="$USER_HOME$/src/a-ordning-produksjonsoppfoelging" />
         <option value="$USER_HOME$/src/adhoc-scripts" />
-        <option value="$USER_HOME$/src/a-ordning-kodelister" />
+        <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding" />
+        <option value="$USER_HOME$/src/a-ordning-produksjonsoppfoelging" />
+        <option value="$USER_HOME$/src/magnet-felles" />
         <option value="$USER_HOME$/src/edagkodeliste-maven-plugin" />
+        <option value="$USER_HOME$/src/altinn-avstemming" />
+        <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-avstemming" />
+        <option value="$USER_HOME$/src/a-ordning-kodelister" />
+        <option value="$USER_HOME$/src/magnet-edag" />
+        <option value="$USER_HOME$/src/ekstern-utsending" />
         <option value="$USER_HOME$/src/abonnement-nav-inntekt" />
         <option value="$USER_HOME$/src/meldingsproduksjon-nav-inntekt" />
-        <option value="$USER_HOME$/src/magnet-felles" />
         <option value="/tmp/build.gradle" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding" />
+        <option value="$USER_HOME$/src/adhoc-scripts" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/src/magnet-edag" />
+    <option name="lastPath" value="$USER_HOME$/src/adhoc-scripts" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/src/a-ordning-kodelister">
@@ -29,7 +31,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464163942057" />
+              <option name="projectOpenTimestamp" value="1464599898219" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -40,7 +42,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464261926315" />
+              <option name="projectOpenTimestamp" value="1464699084371" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -62,7 +64,18 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464179918604" />
+              <option name="projectOpenTimestamp" value="1464941759323" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/altinn-avstemming">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464609805021" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -73,7 +86,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464159666269" />
+              <option name="projectOpenTimestamp" value="1464611239997" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -103,11 +116,22 @@
         <entry key="$USER_HOME$/src/magnet-felles">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-145.597" />
+              <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1462878154928" />
-              <option name="buildTimestamp" value="1459202400000" />
+              <option name="projectOpenTimestamp" value="1464698807611" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/meldingsproduksjon-a-ordning-avstemming">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464609763213" />
+              <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -117,7 +141,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464348245542" />
+              <option name="projectOpenTimestamp" value="1464853679603" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>

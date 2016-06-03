@@ -21,22 +21,26 @@
     <location key="extract.method.dialog.0.0.1920.1200" x="693" y="382" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1200" x="693" y="346" />
     <location key="#xdebugger.evaluate.0.0.1920.1200" x="452" y="357" />
-    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1200" x="679" y="217" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1200" x="591" y="412" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1916.1094" x="657" y="245" />
     <location key="extract.method.dialog.0.0.1916.1094" x="691" y="335" />
+    <location key="caller.chooser.dialog.0.0.1920.1200" x="133" y="339" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1200" x="780" y="532" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1200" x="707" y="353" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1200" x="743" y="311" />
     <size key="FileChooserDialogImpl.0.0.1920.1200" width="426" height="492" />
     <size key="NewModule_or_Project.wizard.0.0.1920.1200" width="707" height="501" />
-    <size key="SettingsEditor.0.0.1920.1200" width="1181" height="690" />
+    <size key="SettingsEditor.0.0.1920.1200" width="1206" height="690" />
     <size key="#Project_Structure.0.0.1920.1200" width="1026" height="853" />
     <size key="CommitChangelistDialog2.0.0.1920.1200" width="1788" height="1128" />
     <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1200" width="342" height="246" />
     <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1200" width="1912" height="1151" />
     <size key="DiffContextDialog.0.0.1920.1200" width="1538" height="950" />
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1200" width="621" height="587" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1876" height="258" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1876" height="258" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1876" height="258" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1876" height="258" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1876" height="317" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1876" height="317" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1876" height="317" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1876" height="317" />
     <size key="GridCell.Tab.1.left.0.0.1920.1200" width="1876" height="391" />
     <size key="GridCell.Tab.1.center.0.0.1920.1200" width="1876" height="391" />
     <size key="GridCell.Tab.1.right.0.0.1920.1200" width="1876" height="391" />
@@ -55,5 +59,9 @@
     <size key="#com.intellij.ide.util.MemberChooser.0.0.1916.1094" width="602" height="602" />
     <size key="extract.method.dialog.0.0.1916.1094" width="526" height="422" />
     <size key="extract.method.dialog.0.0.1920.1200" width="534" height="452" />
+    <size key="caller.chooser.dialog.0.0.1920.1200" width="1646" height="521" />
+    <size key="ReplaceDuplicatesPrompt.0.0.1920.1200" width="373" height="134" />
+    <size key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1200" width="665" height="493" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1920.1200" width="426" height="577" />
   </component>
 </application>
