@@ -3,6 +3,8 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/src/adhoc-scripts" />
+        <option value="$USER_HOME$/src/a-ordning-dokumentavstemming" />
+        <option value="$USER_HOME$/src/magnet-edag" />
         <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-tilbakemelding" />
         <option value="$USER_HOME$/src/a-ordning-produksjonsoppfoelging" />
         <option value="$USER_HOME$/src/magnet-felles" />
@@ -10,7 +12,6 @@
         <option value="$USER_HOME$/src/altinn-avstemming" />
         <option value="$USER_HOME$/src/meldingsproduksjon-a-ordning-avstemming" />
         <option value="$USER_HOME$/src/a-ordning-kodelister" />
-        <option value="$USER_HOME$/src/magnet-edag" />
         <option value="$USER_HOME$/src/ekstern-utsending" />
         <option value="$USER_HOME$/src/abonnement-nav-inntekt" />
         <option value="$USER_HOME$/src/meldingsproduksjon-nav-inntekt" />
@@ -25,6 +26,17 @@
     <option name="lastPath" value="$USER_HOME$/src/adhoc-scripts" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/src/a-ordning-dokumentavstemming">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1464958807915" />
+              <option name="buildTimestamp" value="1463176800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/src/a-ordning-kodelister">
           <value>
             <RecentProjectMetaInfo>
@@ -64,7 +76,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464941759323" />
+              <option name="projectOpenTimestamp" value="1465202432813" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -108,7 +120,7 @@
               <option name="build" value="IU-145.972" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1464348283583" />
+              <option name="projectOpenTimestamp" value="1464942186307" />
               <option name="buildTimestamp" value="1463176800000" />
             </RecentProjectMetaInfo>
           </value>

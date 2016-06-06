@@ -16,12 +16,15 @@
       <find>maven.compiler.source</find>
       <find>compiler</find>
       <find>HeapDumpOnOutOfMemoryError</find>
+      <find>plusDa</find>
+      <find>periode, innsendtTidspunkt, 0, 0</find>
     </findStrings>
     <replaceStrings>
       <replace>innsendtTidspunkt</replace>
       <replace>P_OPL</replace>
       <replace>P_IM</replace>
       <replace>P_BERE</replace>
+      <replace>kontekst</replace>
     </replaceStrings>
   </component>
 </application>
