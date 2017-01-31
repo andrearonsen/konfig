@@ -75,7 +75,7 @@ unsetopt correct_all
 # Customize to your needs...
 export IBUS_ENABLE_SYNC_MODE=1
 #export JAVA_HOME_8=/home/andre/dev/jdk1.8.0_74
-export JAVA_HOME_8=/home/andre/dev/jdk1.8.0_92
+export JAVA_HOME_8=/home/andre/dev/jdk1.8.0_112
 export JAVA_HOME=$JAVA_HOME_8
 alias javahome8="export JAVA_HOME=$JAVA_HOME_8"
 alias javahome="echo $JAVA_HOME"
@@ -83,8 +83,12 @@ export GROOVY_HOME=/home/andre/dev/groovy-2.4.6
 #export M2_HOME=/home/andre/dev/apache-maven-3.1.1
 export M2_HOME=/home/andre/dev/apache-maven-3.3.9
 export GRADLE_HOME=/home/andre/dev/gradle-2.13
-export NPM_HOME=/home/andre/npm
-export PATH=$NPM_HOME/bin:$JAVA_HOME/bin:$GROOVY_HOME/bin:$GRADLE_HOME/bin:$M2_HOME/bin:/home/andre/bin:/u01/app/oracle/product/11.2.0/xe/bin:/usr/lib/jvm/java/bin:/usr/lib/liquibase:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+export LIQUIBASE_HOME=/home/andre/dev/liquibase-3.5.3
+export NODE_HOME_4=/home/andre/dev/node-v4.6.0-linux-x64
+export NODE_HOME_5=/home/andre/dev/node-v5.7.1-linux-x64
+export NODE_HOME_6=/home/andre/dev/node-v6.8.0-linux-x64
+export NODE_HOME=$NODE_HOME_6
+export PATH=$NODE_HOME/bin:$JAVA_HOME/bin:$GROOVY_HOME/bin:$GRADLE_HOME/bin:$M2_HOME/bin:/home/andre/bin:/u01/app/oracle/product/11.2.0/xe/bin:/usr/lib/jvm/java/bin:/usr/lib/liquibase:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 
 #PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
@@ -96,8 +100,16 @@ release-bugfix() {
 	mvn versions:set -DnewVersion=bugfix-$1-$2 -DgenerateBackupPoms=false && mvn clean deploy -Pleveransepakke -DskipTests && git stash
 }
 
+release-versjon() {
+        mvn versions:set -DnewVersion=$1 -DgenerateBackupPoms=false && mvn clean deploy -Pleveransepakke -DskipTests && git stash
+}
+
 sett-versjon() {
 	mvn versions:set -DnewVersion=$1 -DgenerateBackupPoms=false		
+}
+
+sett-versjon-commit() {
+        mvn versions:set -DnewVersion=$1 -DgenerateBackupPoms=false && git add . && git commit -m "Ny versjon: $1"
 }
 
 add-author() {
